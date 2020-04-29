@@ -1,10 +1,10 @@
 {
-    "name": "siftscience/sift-php",
+    "name": "stayforlong/sift-php",
     "description": "Sift Science PHP library",
     "keywords": ["sift", "sift science", "php", "fraud"],
     "homepage": "https://github.com/SiftScience/sift-php",
     "license": "MIT",
-    "version": "2.2.0",
+    "version": "2.2.1",
     "authors": [
         {
             "name": "Alex Lopatin"
